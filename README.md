@@ -1,6 +1,6 @@
-### Hi there 👋
-
 <div style='text-align: center'>
+### Hi there 👋
+<br /><br />
 <h2>
   Tech Stack
 </h2>
@@ -15,8 +15,6 @@
 <img src="https://img.shields.io/badge/Tensorflow-FF6F00?style=flat-square&logo=Tensorflow&logoColor=white"/></a>&nbsp
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/></a>&nbsp
 <br /><br /><br />
-<a href="https://hits.seeyoufarm.com"/><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fdnfwlxo11"/></a>
-</div>
 
 <!--
 **dnfwlxo11/dnfwlxo11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -34,3 +32,4 @@ Here are some ideas to get you started:
 -->
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=dnfwlxo11)](https://github.com/dnfwlxo11)
+</div>
