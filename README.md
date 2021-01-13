@@ -1,5 +1,7 @@
 
 ### Hi there 👋
+
+<br />
 <div style='text-align: center'>
 <h2>
   Tech Stack
@@ -16,19 +18,9 @@
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/></a>&nbsp
 <br /><br />
 </div>
-<!--
-**dnfwlxo11/dnfwlxo11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
+<br />
 - 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br />
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=dnfwlxo11)](https://github.com/dnfwlxo11)
