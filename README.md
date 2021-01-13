@@ -1,7 +1,6 @@
 
 ### Hi there 👋
 
-<br />
 <div style='text-align: center'>
 <h2>
   Tech Stack
@@ -19,8 +18,7 @@
 <br /><br />
 </div>
 
-<br />
 - 🌱 I’m currently learning ...
-<br />
+<br /><br /><br />
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=dnfwlxo11)](https://github.com/dnfwlxo11)
