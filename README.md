@@ -6,7 +6,7 @@
 <h2>
   Tech Stack
 </h2>
-<h4>Langauge : </h4>
+<h4>Language : </h4>
 <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp
 <img src="https://img.shields.io/badge/Javascript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black"/></a>&nbsp (often used) 
 <img src="https://img.shields.io/badge/Java-E51937?style=flat-square&logo=Java&logoColor=white"/></a>&nbsp
