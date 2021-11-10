@@ -14,7 +14,7 @@
 <br />
 <h4>Framework</h4>
 <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white"/></a>&nbsp
-<img src="https://img.shields.io/badge/Vue.js-FFFFFF?style=flat-square&logo=Vue.js&logoColor=green"/></a>&nbsp 
+<img src="https://img.shields.io/badge/Vue.js-CD9FE0?style=flat-square&logo=Vue.js&logoColor=green"/></a>&nbsp 
 <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=Flutter&logoColor=blue"/></a>&nbsp (often used) 
 <img src="https://img.shields.io/badge/Tensorflow-FF6F00?style=flat-square&logo=Tensorflow&logoColor=white"/></a>&nbsp 
 <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=Flask&logoColor=white"/></a>&nbsp (sometime used)
