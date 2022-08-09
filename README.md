@@ -25,8 +25,8 @@
 - 🌱 전부 다 잘하고 싶다.
 <br /><br /><br />
 
-Blog : blog.daein.dev <br />
+Blog : https://blog.daein.dev <br />
 Portfolio : https://dnfwlxo11.github.io/#/ <br />  
-
+<br /><br /><br />
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=dnfwlxo11)](https://github.com/dnfwlxo11)
