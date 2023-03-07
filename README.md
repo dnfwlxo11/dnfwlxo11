@@ -25,7 +25,7 @@
 - 🌱 전부 다 잘하고 싶다.
 <br /><br />
 
-Blog : https://blog.daein.dev <br />
+Blog : https://daechu.tistory.com <br />
 Portfolio : https://portfolio.daein.dev <br />  
 <br />
 
