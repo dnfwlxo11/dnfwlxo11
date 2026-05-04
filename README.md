@@ -29,4 +29,4 @@ Blog : https://daechu.tistory.com <br />
 Portfolio : https://dnfwlxo11.github.io <br />  
 <br />
 
-[![Anurag's github stats](https://github-readme-stats-azure-rho-27.vercel.app)](https://github.com/dnfwlxo11)
+[![Anurag's github stats](https://github-readme-stats-azure-rho-27.vercel.app/api?username=dnfwlxo11&&show_icons=true&theme=buefy)](https://github.com/dnfwlxo11)
